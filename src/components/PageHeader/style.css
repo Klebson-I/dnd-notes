@@ -1,0 +1,12 @@
+.headerText {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 3.5rem;
+}
+
+.headerContainerPaper {
+    background: transparent;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
